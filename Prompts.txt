@@ -1,0 +1,18 @@
+Example AI prompt:
+"Help me implement a function to read data from a CSV file and insert it into ClickHouse."
+
+Example AI prompt:
+"How do I implement JWT authentication in a Spring Boot application?"
+
+Example AI prompt:
+"Guide me in writing a function to connect to a ClickHouse database and fetch the list of available tables using JWT authentication."
+
+Example AI prompt:
+"How can I efficiently batch and stream large datasets when transferring data between ClickHouse and flat files?"
+
+Example AI prompt:
+"What is the best approach to handle errors such as connection failures and data type mismatches during data ingestion in a Java Spring Boot application?"
+
+Example AI prompt:
+"Assist me in building a React component to allow users to select columns from a ClickHouse table for data ingestion, with the ability to display the list of columns dynamically."
+
