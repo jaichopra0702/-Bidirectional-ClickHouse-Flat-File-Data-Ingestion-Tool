@@ -12,7 +12,7 @@ public class ClickHouseClient {
 
         Properties properties = new Properties();
         properties.setProperty("user", "default"); // Or any ClickHouse user configured for JWT auth
-        properties.setProperty("password", jwtToken); // Pass JWT token as password
+        properties.setProperty("password", "0702"); // Pass JWT token as password
 
         return DriverManager.getConnection(url, properties);
     }
